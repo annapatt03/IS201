@@ -1,0 +1,50 @@
+
+a:hover {
+    text-decoration: underline;
+    color: rgb(198, 179, 218);
+}
+
+body {
+    background-color: aliceblue;
+}
+
+p, li {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.underline {text-decoration: underline;}
+
+.resumesub {color:white;}
+
+.centertext {text-align: center;}
+
+.centervideo {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 75%;
+}
+
+.center {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 50%;
+}
+
+.center2 {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 70%;
+}
+
+.backtotop {
+    bottom: 65px;
+    left: 75px;
+    right: 50px;
+    height: 15px;
+    color: #7c6994;
+    text-align: right;
+    position: fixed;
+}
